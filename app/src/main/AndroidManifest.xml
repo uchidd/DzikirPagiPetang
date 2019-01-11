@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.uchidd.dzikirpagipetang">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_pray"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon_pray"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Pagi1Activity" />
+        <activity android:name=".Pagi2Activity" />
+        <activity android:name=".Pagi3Activity" />
+        <activity android:name=".Pagi4Activity" />
+        <activity android:name=".Pagi5Activity" />
+        <activity android:name=".Pagi6Activity" />
+        <activity android:name=".Pagi7Activity" />
+        <activity android:name=".Pagi8Activity" />
+        <activity android:name=".Pagi9Activity" />
+        <activity android:name=".Pagi10Activity" />
+        <activity android:name=".Pagi11Activity" />
+        <activity android:name=".Pagi12Activity" />
+        <activity android:name=".Pagi13Activity" />
+        <activity android:name=".Pagi14Activity" />
+        <activity android:name=".Pagi15Activity" />
+        <activity android:name=".Pagi16Activity" />
+        <activity android:name=".Pagi17Activity" />
+        <activity android:name=".Pagi18Activity" />
+        <activity android:name=".Pagi19Activity" />
+        <activity android:name=".Pagi20Activity" />
+        <activity android:name=".Petang1Activity" />
+        <activity android:name=".Petang2Activity" />
+        <activity android:name=".Petang3Activity" />
+        <activity android:name=".Petang4Activity" />
+        <activity android:name=".Petang5Activity" />
+        <activity android:name=".Petang6Activity" />
+        <activity android:name=".Petang7Activity" />
+        <activity android:name=".Petang8Activity" />
+        <activity android:name=".Petang9Activity" />
+        <activity android:name=".Petang10Activity" />
+        <activity android:name=".Petang11Activity" />
+        <activity android:name=".Petang12Activity" />
+        <activity android:name=".Petang13Activity" />
+        <activity android:name=".Petang14Activity" />
+        <activity android:name=".Petang15Activity" />
+        <activity android:name=".Petang16Activity" />
+        <activity android:name=".Petang17Activity" />
+        <activity android:name=".Petang18Activity" />
+        <activity android:name=".Petang19Activity" />
+        <activity android:name=".AboutDeveloperActivity"></activity>
+    </application>
+
+</manifest>
